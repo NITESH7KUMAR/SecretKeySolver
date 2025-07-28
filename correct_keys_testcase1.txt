@@ -1,0 +1,4 @@
+Coefficient a_0 = 3
+Coefficient a_1 = 0
+Coefficient a_2 = 1
+Secret (constant term c): 3

@@ -1,0 +1,8 @@
+Coefficient a_0 = 79836264049851
+Coefficient a_1 = 92534348706405
+Coefficient a_2 = 234176747398429
+Coefficient a_3 = 147160079768248
+Coefficient a_4 = 105860038268942
+Coefficient a_5 = 129715447661077
+Coefficient a_6 = 205802168748539
+Secret (constant term c): 79836264049851
